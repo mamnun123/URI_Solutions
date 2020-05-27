@@ -30,5 +30,5 @@ Below solutions are available in this repository:<br />
 <td>1002</td>
 <td>Area of a Circle</td>
 <td>Beginner</td>
-<td>C, CPP, Python, Java</td>
+<td>C, CPP, C#, Python, Java</td>
 </tr>
