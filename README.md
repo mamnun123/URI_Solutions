@@ -63,7 +63,7 @@ Below solutions are available in this repository:<br />
 
 <tr>
 <td>1007</td>
-<td>Difference/td>
+<td>Difference</td>
 <td>Beginner</td>
 <td>CPP</td>
 </tr>
