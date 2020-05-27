@@ -21,7 +21,14 @@ Below solutions are available in this repository:<br />
 
 <tr>
 <td>1001</td>
-<td>Simple summation</td>
+<td>Simple Summation</td>
 <td>Beginner</td>
-<td>C, CPP, Python 2, Python 3</td>
+<td>C, CPP, Python, Java</td>
+</tr>
+
+<tr>
+<td>1002</td>
+<td>Area of a Circle</td>
+<td>Beginner</td>
+<td>C, CPP, Python, Java</td>
 </tr>
