@@ -64,5 +64,26 @@ Below solutions are available in this repository:<br />
 <td>1007</td>
 <td>Difference</td>
 <td>Beginner</td>
-<td>CPP</td>
+<td>CPP, Python</td>
+</tr>
+
+<tr>
+<td>1008</td>
+<td>Salary</td>
+<td>Beginner</td>
+<td>CPP, Python</td>
+</tr>
+
+<tr>
+<td>1009</td>
+<td>Salary with Bonus</td>
+<td>Beginner</td>
+<td>CPP, Python</td>
+</tr>
+
+<tr>
+<td>100</td>
+<td>Simple Calculate</td>
+<td>Beginner</td>
+<td>CPP, Python</td>
 </tr>
