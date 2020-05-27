@@ -32,3 +32,38 @@ Below solutions are available in this repository:<br />
 <td>Beginner</td>
 <td>C, CPP, C#, Python, Java</td>
 </tr>
+
+<tr>
+<td>1003</td>
+<td>Simple Sum</td>
+<td>Beginner</td>
+<td>C, CPP, Python</td>
+</tr>
+
+<tr>
+<td>1004</td>
+<td>Simple Product</td>
+<td>Beginner</td>
+<td>C, CPP, Python, Java</td>
+</tr>
+
+<tr>
+<td>1005</td>
+<td>Average 1</td>
+<td>Beginner</td>
+<td>CPP, Python</td>
+</tr>
+
+<tr>
+<td>1006</td>
+<td>Average 2</td>
+<td>Beginner</td>
+<td>CPP, Python</td>
+</tr>
+
+<tr>
+<td>1007</td>
+<td>Difference/td>
+<td>Beginner</td>
+<td>CPP</td>
+</tr>
