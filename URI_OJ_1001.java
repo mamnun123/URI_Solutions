@@ -1,7 +1,5 @@
 package URI_1001_;
-
 import java.util.Scanner;
-
 public class URI_1001 {
 
 	public static void main(String[] args) 
