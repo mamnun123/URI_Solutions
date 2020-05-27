@@ -82,8 +82,22 @@ Below solutions are available in this repository:<br />
 </tr>
 
 <tr>
-<td>100</td>
+<td>1010</td>
 <td>Simple Calculate</td>
 <td>Beginner</td>
 <td>CPP, Python</td>
+</tr>
+
+<tr>
+<td>1011</td>
+<td>Sphere</td>
+<td>Beginner</td>
+<td>C, CPP, Python, Java</td>
+</tr>
+
+<tr>
+<td>1012</td>
+<td>Area</td>
+<td>Beginner</td>
+<td>C, CPP, Python</td>
 </tr>
